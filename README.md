@@ -1,5 +1,6 @@
 
-<img width="1376" height="768" alt="Gemini_Generated_Image_4cijoa4cijoa4cij" src="https://github.com/user-attachments/assets/1b4e1672-63ef-4e7a-830a-a01bf6506031" />
+<img width="1376" height="768" alt="Gemini_Generated_Image_4cijoa4cijoa4cij" src="https://github.com/user-attachments/assets/f24e2be6-fcfe-4135-a6e4-c146e6c56b5b" />
+
 ## 📄 profile.yaml
 
 ```yaml
@@ -44,6 +45,7 @@ experience:
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </p>
+<img width="1024" height="1024" alt="Gemini_Generated_Image_uazgwxuazgwxuazg" src="https://github.com/user-attachments/assets/c2b00b19-4735-4f33-94d2-1cee41d94e6d" />
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_uazgwxuazgwxuazg" src="https://github.com/user-attachments/assets/5be28631-513d-42df-8c67-392bafa91755" />
+
 
